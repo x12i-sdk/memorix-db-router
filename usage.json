@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-db-router",
+  "packageVersion": "3.0.2",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-db-router",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-db-router",
+  "sourceRepository": "https://github.com/x12i/memorix-mono-repo",
+  "sourceCommit": "b87d277ff9c40cedc18d5f4775642baf8a2d3df1",
+  "sourcePackageDirectory": "memorix-db-router",
+  "example": {
+    "title": "Resolve canonical tenant database names without a database connection",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:12:22.665629+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "fb1e0b4f5adbefa49bab2b850c28d2ed8761206dfe843b32583293a50b0ee200",
+    "manifestSha256": "db90294e3045b11fa3405282652d2ef7a89c4504f0e2d9909fb314b637d7e412"
+  }
+}
